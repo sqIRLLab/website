@@ -7,6 +7,7 @@
             date: "Apr 2025",
             link: "https://openreview.net/forum?id=TEmE9PSC65",
             published: "ICLR'25",
+            image: "people/benjamin.jpg",
             description: "We show the applicability of twin network augmentation on convolutional neural networks"
         },
         {
@@ -29,6 +30,7 @@
             link: "https://arxiv.org/pdf/2409.15849",
             published: "arXiv",
             date: "Sep 2024",
+            image: "people/benjamin.jpg",
             description: "A Novel Training Strategy for Improved Spiking Neural Networks and Efficient Weight Quantization."
         },
         {

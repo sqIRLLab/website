@@ -4,6 +4,12 @@
 
     const news = [
         {
+            date: "Jan 2025",
+            title: "Paper accepted",
+            description: "Two papers accepted at ICLR'25 on Twin Network Augmentation and Interpretability via Bilinear MLPs.",
+            link: ""
+        },
+        {
             date: "Dec 2024",
             title: "Paper accepted",
             description: "Saja's paper on the interpretability of Capsule Networks was accepted at the journal of Neurocomputing.",
@@ -57,7 +63,9 @@
         <div class="box">
             <div class="content">
                 <p> 
-                    The Interpretable Representation Learning lab, sqIRL, at the University of Antwerp pursues fundamental research at the intersection of Machine Learning and Interpretability/Explainability. Our research focuses on the inner-workings of AI systems and the learning processes that produce them. We aim to develop AI systems that are interpretable/explainable and more efficient in their use of data and computational resources.
+                    The Interpretable Representation Learning lab, sqIRL, at the University of Antwerp pursues fundamental research at the intersection of machine learning and interpretability/explainability.
+                    Our research focuses on the inner-workings of AI systems and the learning processes that produce them.
+                    We aim to develop AI systems that are interpretable/explainable and more efficient in their use of data and computational resources.
                 </p>
             </div>
         </div>

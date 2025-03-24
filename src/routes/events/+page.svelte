@@ -6,8 +6,8 @@
         title: "Talk @ VisAPP'24",
         date: "27 Feb 2025",
         link: "publications/_example",
-        image: "",
-        description: "Presenting \"Recognizing actions in high-resolution low-framerate videos: a feasibility study in the construction sector\"",
+        image: "people/benjamin.jpg",
+        description: "Recognizing actions in high-resolution low-framerate videos: a feasibility study in the construction sector.",
     },
     {
         title: "Talk @ Flanders AI Day",
